@@ -1,0 +1,17 @@
+<!DOCTYPE htlm>
+<html>
+<head>
+       <title>Profil saya- intan bilqis</title>
+       <link rel="stylesheet" href="style.css">
+</head>
+<body>
+       <div class="kartu-profil">
+       <img src="foto profil.jpg" alt=foto profil saya"> 
+       <h1>nama lengkap anda</h1>
+       <p>Siswa SMA yang tertarik dengan teknologi dan desain.selamat datang 
+       <a href="https://www.instagram.com/username">Kunjungi instagram 
+       <button id="sapaButton">sapa saya!</button>
+  </div>
+<script scr="scipt.sj"></script>
+</body>
+</html>
